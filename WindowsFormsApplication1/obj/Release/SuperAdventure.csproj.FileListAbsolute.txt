@@ -1,0 +1,11 @@
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MyAwesomeGame.exe.config
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MyAwesomeGame.exe
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MyAwesomeGame.pdb
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Engine.dll
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Engine.pdb
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\SuperAdventure.csprojResolveAssemblyReference.cache
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\SuperAdventureNameSpace.SuperAdventure.resources
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\SuperAdventureNameSpace.Properties.Resources.resources
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\SuperAdventure.csproj.GenerateResource.Cache
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\MyAwesomeGame.exe
+E:\web-dev\rpgadventure\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\MyAwesomeGame.pdb
